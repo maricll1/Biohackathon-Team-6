@@ -14,3 +14,6 @@ The disruption of the CFTR protein-protein interaction network alters the regula
 
 ## Report
 We identified Cystic Fibrosis as our disease of interest and CFTR as the gene associated with this phenotype. We then built a PPI network using the expression of the gene as seeds, and found tissue-specific eQTLs DNA polymorphisms that may be the responsible. These findings contributed to our hypothesis formation, which was then compiled into this repository. No code was needed to complete this.
+
+## Sources
+https://www.cff.org/intro-cf/about-cystic-fibrosis
